@@ -20,12 +20,12 @@ body {
 }
 
 .carousel-item {
-    height: 50vh;
+    
+    overflow: hidden;
 }
 
 .carousel-caption {
     background-color: rgba(148, 148, 148, 0.5);
     border-radius: 20px;
     box-shadow: 0 0 7px 6px rgba(148, 148, 148, 0.5)  ;
-    height: ;
 }
